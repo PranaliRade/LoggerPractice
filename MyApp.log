@@ -1,0 +1,54 @@
+2024-05-22 11:13:00,973 [restartedMain] INFO  c.l.L.LoggerPracticeApplication                    - Starting LoggerPracticeApplication using Java 19.0.2 with PID 23300 (C:\Users\prana\Downloads\LoggerPractice\LoggerPractice\target\classes started by Pranali in C:\Users\prana\Downloads\LoggerPractice\LoggerPractice)
+2024-05-22 11:13:00,975 [restartedMain] INFO  c.l.L.LoggerPracticeApplication                    - No active profile set, falling back to 1 default profile: "default"
+2024-05-22 11:13:01,038 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor    - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-22 11:13:01,038 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor    - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-22 11:13:02,141 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port 8080 (http)
+2024-05-22 11:13:02,152 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-22 11:13:02,154 [restartedMain] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2024-05-22 11:13:02,155 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-22 11:13:02,198 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2024-05-22 11:13:02,199 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 1159 ms
+2024-05-22 11:13:02,621 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2024-05-22 11:13:02,654 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-22 11:13:02,686 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port 8080 (http) with context path ''
+2024-05-22 11:13:02,701 [restartedMain] INFO  c.l.L.LoggerPracticeApplication                    - Started LoggerPracticeApplication in 2.087 seconds (process running for 3.039)
+2024-05-22 11:14:17,083 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-22 11:14:17,084 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Initializing Servlet 'dispatcherServlet'
+2024-05-22 11:14:17,088 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Completed initialization in 4 ms
+2024-05-22 11:14:17,146 [http-nio-8080-exec-1] ERROR c.l.L.Controller.DemoController                    - exception occured.../ by zero
+2024-05-22 11:18:16,880 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 3 class path changes (0 additions, 2 deletions, 1 modification)
+2024-05-22 11:18:16,894 [Thread-5] INFO  o.apache.coyote.http11.Http11NioProtocol           - Stopping ProtocolHandler ["http-nio-8080"]
+2024-05-22 11:18:17,159 [restartedMain] INFO  c.l.L.LoggerPracticeApplication                    - Starting LoggerPracticeApplication using Java 19.0.2 with PID 23300 (C:\Users\prana\Downloads\LoggerPractice\LoggerPractice\target\classes started by Pranali in C:\Users\prana\Downloads\LoggerPractice\LoggerPractice)
+2024-05-22 11:18:17,160 [restartedMain] INFO  c.l.L.LoggerPracticeApplication                    - No active profile set, falling back to 1 default profile: "default"
+2024-05-22 11:18:17,714 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port 8080 (http)
+2024-05-22 11:18:17,715 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-22 11:18:17,716 [restartedMain] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2024-05-22 11:18:17,717 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-22 11:18:17,756 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2024-05-22 11:18:17,756 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 570 ms
+2024-05-22 11:18:18,517 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2024-05-22 11:18:18,521 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-22 11:18:18,526 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port 8080 (http) with context path ''
+2024-05-22 11:18:18,531 [restartedMain] INFO  c.l.L.LoggerPracticeApplication                    - Started LoggerPracticeApplication in 1.524 seconds (process running for 318.868)
+2024-05-22 11:18:18,533 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener  - Condition evaluation unchanged
+2024-05-22 11:18:20,137 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 2 class path changes (2 additions, 0 deletions, 0 modifications)
+2024-05-22 11:18:20,140 [Thread-7] INFO  o.apache.coyote.http11.Http11NioProtocol           - Stopping ProtocolHandler ["http-nio-8080"]
+2024-05-22 11:18:20,282 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils       - Could not detect default configuration classes for test class [com.logger.LoggerPractice.LoggerPracticeApplicationTests]: LoggerPracticeApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-05-22 11:18:20,355 [restartedMain] INFO  c.l.L.LoggerPracticeApplication                    - Starting LoggerPracticeApplication using Java 19.0.2 with PID 23300 (C:\Users\prana\Downloads\LoggerPractice\LoggerPractice\target\classes started by Pranali in C:\Users\prana\Downloads\LoggerPractice\LoggerPractice)
+2024-05-22 11:18:20,356 [restartedMain] INFO  c.l.L.LoggerPracticeApplication                    - No active profile set, falling back to 1 default profile: "default"
+2024-05-22 11:18:20,391 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper        - Found @SpringBootConfiguration com.logger.LoggerPractice.LoggerPracticeApplication for test class com.logger.LoggerPractice.LoggerPracticeApplicationTests
+2024-05-22 11:18:20,575 [main] INFO  o.s.b.d.r.RestartApplicationListener               - Restart disabled due to context in which it is running
+2024-05-22 11:18:20,802 [main] INFO  c.l.L.LoggerPracticeApplicationTests               - Starting LoggerPracticeApplicationTests using Java 19.0.2 with PID 32124 (started by Pranali in C:\Users\prana\Downloads\LoggerPractice\LoggerPractice)
+2024-05-22 11:18:20,802 [main] INFO  c.l.L.LoggerPracticeApplicationTests               - No active profile set, falling back to 1 default profile: "default"
+2024-05-22 11:18:20,969 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port 8080 (http)
+2024-05-22 11:18:20,970 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-22 11:18:20,971 [restartedMain] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2024-05-22 11:18:20,972 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-22 11:18:21,027 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2024-05-22 11:18:21,028 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 660 ms
+2024-05-22 11:18:21,327 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2024-05-22 11:18:21,343 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-22 11:18:21,350 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port 8080 (http) with context path ''
+2024-05-22 11:18:21,360 [restartedMain] INFO  c.l.L.LoggerPracticeApplication                    - Started LoggerPracticeApplication in 1.111 seconds (process running for 321.697)
+2024-05-22 11:18:21,367 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener  - Condition evaluation unchanged
+2024-05-22 11:18:21,965 [main] INFO  c.l.L.LoggerPracticeApplicationTests               - Started LoggerPracticeApplicationTests in 1.402 seconds (process running for 2.657)
